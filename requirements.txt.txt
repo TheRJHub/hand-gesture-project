@@ -1,0 +1,8 @@
+For this project, we need 2 main Python packages:
+
+OpenCV – this helps us grab video from the webcam, show it on the screen, and draw stuff like hand landmarks and text. It also flips the camera feed so it feels like a mirror.
+
+MediaPipe – this is what actually detects hands and gives us the key points on fingers and palm. Super easy, no need to train a model ourselves.
+
+With these two, the script can detect hands in real-time and show feedback on the screen.
+It’s a simple and fun way to learn about computer vision and make a cool project in Python! 
